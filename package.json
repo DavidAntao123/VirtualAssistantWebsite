@@ -9,20 +9,21 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "next": "^16.0.10",
+    "next": "^16.2.1",
     "react": "19.2.0",
     "react-dom": "19.2.0",
     "whisper-node": "^1.1.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
-    "@types/react": "^19",
+    "@types/next": "^8.0.7",
+    "@types/node": "^20.19.37",
+    "@types/react": "^19.2.14",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.0.4",
     "local-ssl-proxy": "^2.0.5",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5.9.3"
   }
 }
